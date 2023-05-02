@@ -16,8 +16,8 @@ $ pip install rich bs4
 
 $ pip install stdiomask
 
-$ git clone https://github.com/ItsmiFanz-XD/FanzFree
+$ git clone https://github.com/ItsmiFanz-XD/FREEV1
 
 $ cd FanzFree
 
-$ ls $ python Free.py
+$ ls $ python FREEV1.py
